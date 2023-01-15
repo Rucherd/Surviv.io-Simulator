@@ -1,0 +1,10 @@
+M9
+Dual M9
+G18C
+Dual G18C
+M93R
+OT-38
+Dual OT-38
+Dual M1911
+M1911
+Fists

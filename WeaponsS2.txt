@@ -1,0 +1,16 @@
+P220
+Saiga-12
+P30L
+Super 90
+M39 EMR
+AN-94
+M1 Garand
+FAMAS
+Mk 12 SPR
+Scout Elite
+DEagle 50
+Stone hammer
+Machete
+Bonesaw
+Potato Cannon
+Fists

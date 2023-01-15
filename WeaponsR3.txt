@@ -1,0 +1,13 @@
+SPAS-12
+MP220
+M39 EMR
+DP-28
+Mosin-Nagant
+Groza
+Mk 12 SPR
+FAMAS
+Scout Elite
+Peacemaker
+Katana
+Hook
+Machete

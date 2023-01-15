@@ -1,0 +1,16 @@
+-----------------------------------------------------------------------------------------------------------
+This is a simulator based on the game Surviv.io
+There are a set amount of players, and they fight it out until only one of them remains.
+Each player has a skill level, from 1-10.
+Each weapon has a power level (1-12), rarity(1-5), and skill potential (1-3).
+At the start, every player gets a random weapon, there can be repeats and the weapon is chosen based on its rarity.
+For example, a more common weapon has a higher chance to get chosen than a rarer one.
+When one player meets another player, their "win score" is calculated based on their skill, and weapon.
+The win score can be derived by: (Skill * weapon skill potential) + weapon power.
+Whoever has the higher win score has a higher chance of winning, however, it is not guarenteed.
+Every player goes through an audition by the program each day. 
+This checks whether the player will meet another.
+If they do, they will battle it out. 
+If not, nothing happens and they wait either to be attacked by someone else during that day,
+or to battle with someone the following day.
+-----------------------------------------------------------------------------------------------------------
